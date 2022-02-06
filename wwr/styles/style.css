@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:wght@300&family=PT+Sans&display=swap');
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -10,43 +12,66 @@
 }
 #background{
     height: 725px;
-    color: #e6ecef;
+    background-color: #227396;;
+}
+#logo_link{
+    padding-top: 5px;
 }
 nav a {
     text-align: center;
-    color: #1b065e;
+    color: black;
     text-decoration: none;
+    padding: 35px;
 }
 nav a:hover{
- color: #227396;
+ color: #1b065e;
 }
 .home-title{
     color: black;
+    font-size: 2em;
+    margin-top: 10px;
 }
 .button-box{
     text-align: center;
 }
 .book, .join{
-    color: #1b065e;
+    background-color:#227396;
+    color: white;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.rivers-card, .camping-card, .rapids-card, .mountains{
+    margin: 200px 0;
 }
 .book:hover, .join:hover{
-    color: #227396;
+    color: black;
 }
 .msg{
-    color: black;
+    background-color: black;
+    line-height: 1.5em;
+    padding: 35px;
 }
 .msg h2{
-    color: black;
+    color: #227396;
+    font-family: "PT sans", "Montserrat";
 }
 .msg p{
-    color: black;
+    color: #227396;
+    font-size: .8em;
+    padding-bottom: 15px;
 }
 .logo{
     width: 80px;
 }
 .icon{
     width: 80px;
+    padding-top: 10px;
+}
+.card-img{
+    border: 10px solid #227396;
 }
 h4{
     color: black;
@@ -54,28 +79,40 @@ h4{
 body{
     background-color: #e6ecef;
     color: black;
+    font-family: "Montserrat", "Lato", "PT-sans" ;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin: 0;
 }
 body header{
-    background-color: #e6ecef;
+    background-color: #227396;
     color: black;
 }
 body main section {
     text-align: center;
+    box-sizing: border-box;
 }
 body footer{
-    background-color: #e6ecef;
-    color: black;
+    background-color: #227396;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 body footer h3{
     color: black;
 }
-body footer a{
-    color: #1b065e;
+body footer h3 a{
+    color: black;
     text-decoration: none;
 }
 body footer a:hover{
-    color: #227396;
+    color: white;
 }
 body footer h3 a:hover{
     text-decoration: underline;
+}
+body footer .social img{
+    padding-top:15px;
 }
