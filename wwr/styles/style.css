@@ -70,7 +70,7 @@ nav a:hover{
     margin: 0;
     margin-top: -6px;
     z-index: -1;
-    background-image: url("/wwr/images/background.jpg");
+    background-image: url("https://evankhoo.github.io/wdd130/wwr/images/background.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment: fixed;
