@@ -155,7 +155,6 @@ html{
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: repeat(3, 1fr);
     height: 232px;
-    margin-top: 20px;
 }
 #front-contact{
     box-shadow: 2px 1px 10px #6f7364;
@@ -182,7 +181,7 @@ html{
     grid-template-columns: repeat(10, 1fr);
     grid-template-columns: repeat(9, 1fr);
     margin: 0;
-    margin-top: -6px;
+    margin-top: 20px;
     margin-bottom: -6px;
     z-index: -1;
 }
