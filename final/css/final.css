@@ -259,6 +259,7 @@ body footer .social{
     padding: 20px;
     text-align: right;
     width: 50%;
+    height: auto;
     z-index: -1;
 }
 body footer .social img{
