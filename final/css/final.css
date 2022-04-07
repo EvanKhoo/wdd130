@@ -154,7 +154,7 @@ html{
     display: grid;
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: repeat(3, 1fr);
-    height: 280px;
+    height: 290px;
     margin:0;
 }
 #front-contact{
