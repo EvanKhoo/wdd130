@@ -257,7 +257,7 @@ footer{
 }
 body footer .social{
     padding: 20px;
-    float: right;
+    text-align: right;
     width: 40%;
     z-index: -1;
 }
