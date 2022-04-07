@@ -135,6 +135,7 @@ html{
 }
 #top-img{
     width: 100%;
+    heigth: auto;
     z-index: -1;
 }
 #profile-img{
