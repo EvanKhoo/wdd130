@@ -245,7 +245,7 @@ footer{
 #contact{
     color: white;
     padding: 30px 30px 0px 30px;
-    text-align: left;
+    float: left;
     z-index: 0;
 }
 #copyright{
