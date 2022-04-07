@@ -255,9 +255,9 @@ footer{
     z-index: -1;
 }
 body footer .social{
-    padding-left: 700px;
     padding-top:15px;
     padding-bottom:15px;
+    text-align: right;
     z-index: -1;
 }
 body footer .social img{
