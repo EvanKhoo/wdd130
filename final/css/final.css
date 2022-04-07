@@ -173,9 +173,8 @@ html{
     grid-column: 1/11;
     grid-row: 1/2;
     background-image: URL("https://evankhoo.github.io/wdd130/final/images/background.jpg");
-    height: 100%;
+    background-position: left;
     repeat: no-repeat;
-    background-position: center;
     background-size: contain;
     z-index: -1;
     -webkit-mask-image:-webkit-gradient(linear, center top, center top, from(rgba(0,0,0,1)), to(rgba(0,0,0,0.5)));
