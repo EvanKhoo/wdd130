@@ -172,6 +172,7 @@ html{
 #back-contact{
     grid-column: 1/11;
     grid-row: 1/2;
+    background-image: URL("https://evankhoo.github.io/wdd130/final/images/background.jpg");
     height: 100%;
     repeat: no-repeat;
     background-position: center;
