@@ -13,9 +13,9 @@ html{
     margin-top: 50px;
     position: relative;
   }
-.contents {
-    margin-top: 50px;
-    position: relative;
+#contents {
+    max-width: 1920px;
+    margin: 0 auto;
     background-image: URL("https://evankhoo.github.io/wdd130/final/images/background.jpg");
     background-position: center;
     repeat: no-repeat;
