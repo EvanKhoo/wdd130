@@ -135,6 +135,7 @@ html{
 }
 #top-img{
     width: 100%;
+    heigth: fill;
     z-index: -1;
 }
 #profile-img{
@@ -153,7 +154,7 @@ html{
     display: grid;
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: repeat(3, 1fr);
-    height: auto;
+    height: 290px;
     margin:0;
 }
 #front-contact{
