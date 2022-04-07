@@ -18,8 +18,8 @@ html{
     margin: 0 auto;
     background-image: URL("https://evankhoo.github.io/wdd130/final/images/background.jpg");
     background-position: center;
+    background-size: cover;
     repeat: no-repeat;
-    background-size: 30%;
 }
   
   /* Hide the images by default */
