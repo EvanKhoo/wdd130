@@ -172,7 +172,10 @@ html{
 #back-contact{
     grid-column: 1/11;
     grid-row: 1/2;
-    height: 30%;
+    height: 100%;
+    repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     z-index: -1;
     -webkit-mask-image:-webkit-gradient(linear, center top, center top, from(rgba(0,0,0,1)), to(rgba(0,0,0,0.5)));
           mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.5));
